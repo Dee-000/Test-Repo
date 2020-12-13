@@ -4,7 +4,7 @@
 
 import { TestPage } from "../page-objects/test-page"
 
-describe('Google page tests', () => {
+describe('Google page testing', () => {
     
     const testpage = new TestPage
 

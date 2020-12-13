@@ -1,15 +1,15 @@
 export class TestPage {
     
     navigate() {
-        cy.visit('https://google.ca/')
+        cy.visit('https://google.com/')
     }
 
 
     search(value) 
     { 
     const field=cy.get('.gLFyf')
-    field.type(value) 
-    // field.type((value) + '{enter}')
+    // field.type(value) 
+    field.type((value) + '{enter}')
     // field.clear()
     }
         
