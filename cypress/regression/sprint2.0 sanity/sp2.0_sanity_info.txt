@@ -1,0 +1,3 @@
+SANITY TESTING: Verifies new functionalities for stable build (subset of regression)
+
+Sprint 2.0.0.M01 Sanity Validations
