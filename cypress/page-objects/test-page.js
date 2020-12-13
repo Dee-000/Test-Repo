@@ -1,7 +1,7 @@
 export class TestPage {
     
     navigate() {
-        cy.visit('https://google.com/')
+        cy.visit('https://google.ca/')
     }
 
 
