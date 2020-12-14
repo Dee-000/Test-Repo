@@ -11,5 +11,8 @@
   "license": "ISC",
   "dependencies": {
     "cypress": "^4.12.1"
+  },
+  "devDependencies": {
+    "cypress-teamcity-reporter": ">=2.0.0"
   }
 }
